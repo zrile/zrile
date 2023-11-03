@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zrile
-- 👀 I’m interested in NFT, sport climbing, kayaking, splitboarding
+- 👀 I’m interested in NFT
 - 🌱 I’m currently learning Solidity
 
 
